@@ -1,0 +1,12 @@
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangNhanh\GiaoHangNhanh\bin\Debug\GiaoHangNhanh.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangNhanh\GiaoHangNhanh\bin\Debug\GiaoHangNhanh.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangNhanh\GiaoHangNhanh\obj\x86\Debug\GiaoHangNhanh.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangNhanh\GiaoHangNhanh\obj\x86\Debug\GiaoHangNhanh.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangNhanh\GiaoHangNhanh\obj\x86\Debug\GiaoHangNhanh.csprojResolveAssemblyReference.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangNhanh\GiaoHangNhanh\bin\Debug\Newtonsoft.Json.dll
+D:\Tool\GiaoHangNhanh\GiaoHangNhanh\obj\x86\Debug\GiaoHangNhanh.exe
+D:\Tool\GiaoHangNhanh\GiaoHangNhanh\obj\x86\Debug\GiaoHangNhanh.pdb
+D:\Tool\GiaoHangNhanh\GiaoHangNhanh\obj\x86\Debug\GiaoHangNhanh.csprojResolveAssemblyReference.cache
+D:\Tool\GiaoHangNhanh\GiaoHangNhanh\bin\Debug\GiaoHangNhanh.exe
+D:\Tool\GiaoHangNhanh\GiaoHangNhanh\bin\Debug\GiaoHangNhanh.pdb
+D:\Tool\GiaoHangNhanh\GiaoHangNhanh\bin\Debug\Newtonsoft.Json.dll
